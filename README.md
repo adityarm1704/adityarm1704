@@ -51,7 +51,7 @@ const aditya = {
 | Analysis | AI / Data Analytics |
 | Data Handling | Excel, SQL |
 
-🔗 [Code](https://github.com/adityarm1704/AI-Driven-Student-Performance-Analytics)
+🔗 [Code](https://github.com/adityarm1704/AI-Driven-Student-Performance-Analytics.)
 
 ---
 
