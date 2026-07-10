@@ -68,7 +68,7 @@ const aditya = {
 | Data Source | Excel |
 | Analysis | SQL |
 
-🔗 [Code](https://github.com/adityarm1704/Dmart_sales_analysis)
+🔗 [Code](https://github.com/adityarm1704/Dmart-Sales-Analysis)
 
 ---
 
