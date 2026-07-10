@@ -42,7 +42,7 @@ const aditya = {
 > AI-driven analysis of student performance data.
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=adityarm1704&repo=AI-Driven-Student-Performance-Analytics&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=adityarm1704&repo=AI-Driven-Student-Performance-Analytics.&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
 </div>
 
 | Layer | Technology |
