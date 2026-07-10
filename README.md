@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Aditya%20Ramkishan%20Masure&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=BCA%20%26%20AI%2FML%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Aditya%20Ramkishan%20Masure&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=BCA%20and%20AI%2FML%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=BCA+%26+AI%2FML+Student;Data+Analyst+%7C+Python+%2B+SQL;Turning+raw+data+into+insights;Building+with+Power+BI+%26+Tableau" alt="Typing SVG" />
