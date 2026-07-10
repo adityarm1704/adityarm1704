@@ -100,9 +100,8 @@ const aditya = {
 ---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adityarm1704&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=adityarm1704&theme=nord&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ---
