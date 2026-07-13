@@ -47,7 +47,6 @@ const aditya = {
 
 | Layer | Technology |
 |-------|------------|
-| Language | Python |
 | Analysis | AI / Data Analytics |
 | Data Handling | Excel, SQL |
 
@@ -55,8 +54,12 @@ const aditya = {
 
 ---
 
-### 🛒 Dmart Sales Dashboard
-> Sales analysis dashboard for Dmart built in Power BI.
+🛒 Dmart Sales Dashboard
+
+
+Sales analysis dashboard for Dmart built in Power BI.
+
+
 
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=adityarm1704&repo=Dmart-Sales-Analysis&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
@@ -66,7 +69,7 @@ const aditya = {
 |-------|------------|
 | Visualization | Power BI |
 | Data Source | Excel |
-| Analysis | SQL |
+
 
 🔗 [Code](https://github.com/adityarm1704/Dmart-Sales-Analysis)
 
