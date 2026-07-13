@@ -59,7 +59,7 @@ const aditya = {
 > Sales analysis dashboard for Dmart built in Power BI.
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=adityarm1704&repo=Dmart_sales_analysis&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=adityarm1704&repo=Dmart-Sales-Analysis&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
 </div>
 
 | Layer | Technology |
