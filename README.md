@@ -17,10 +17,6 @@
 
 <br/><br/>
 
-<p align="center">
- <img src="https://profile-counter.glitch.me/adityarm1704/count.svg" alt="Profile Views"/>
-</p>
-
 </div>
 
 ---
