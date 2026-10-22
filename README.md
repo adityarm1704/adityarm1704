@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=adityarm1704&style=flat-square&color=7dd3fc&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=adityarm1704&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile Views"/>
 
 </div>
 
