@@ -18,7 +18,7 @@
 <br/><br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityarm1704&label=PROFILE%20VIEWS&color=0ea5e9&style=flat-square" alt="Profile Views"/>
+ <img src="https://profile-counter.glitch.me/adityarm1704/count.svg" alt="Profile Views"/>
 </p>
 
 </div>
