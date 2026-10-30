@@ -83,7 +83,7 @@ A project focused on exploring student performance data and presenting meaningfu
 
 **Tools:** Excel, SQL, Data Analytics
 
-<a href="https://github.com/adityarm1704/AI-Driven-Student-Performance-Analytics">
+<a href="[https://github.com/adityarm1704/AI-Driven-Student-Performance-Analytics](https://github.com/adityarm1704/AI-Driven-Student-Performance-Analytics./tree/main)">
 <img src="https://img.shields.io/badge/View%20Project-Repository-0369a1?style=for-the-badge&logo=github&logoColor=white" alt="View Student Performance Analytics project"/>
 </a>
 
